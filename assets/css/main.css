@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 1440px;
+  height: auto;
+  background: linear-gradient(0deg, rgba(0, 255, 163, 0.31) 0%, rgba(0, 255, 163, 0.31) 100%), linear-gradient(0deg, rgba(255, 0, 0, 0.07) 0%, rgba(255, 0, 0, 0.07) 100%), rgba(216, 210, 210, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.group {
+  display: flex;
+  gap: 30px;
+}
+
+.bayroq_1 {
+  width: 300px;
+  height: 220px;
+  background: linear-gradient(90deg, blue 0%, blue 33%, white 33%, white 66%, red 66%, red 100%);
+}
+
+.bayroq_2 {
+  width: 300px;
+  height: 220px;
+  background: linear-gradient(90deg, green 0%, green 33%, white 33%, white 66%, red 66%, red 100%);
+}
+
+.bayroq_3 {
+  width: 300px;
+  height: 220px;
+  background: linear-gradient(180deg, black 0%, black 33%, red 33%, red 66%, gold 66%, gold 100%);
+}
+
+.bayroq_4 {
+  width: 300px;
+  height: 220px;
+  background: linear-gradient(180deg, white 0%, white 33%, rgb(6, 93, 6) 33%, rgb(6, 93, 6) 66%, red 66%, red 100%);
+}
+
+.group_2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.bayroq_11 {
+  width: 300px;
+  height: 220px;
+  background: linear-gradient(135deg, rgb(6, 93, 6) 0%, rgb(6, 93, 6) 40%, gold 40%, gold 60%, red 60%, red 100%);
+}
+
+.bayroq_22 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 220px;
+  background: linear-gradient(36deg, rgb(6, 93, 6) 0%, rgb(6, 93, 6) 50%, gold 50%, gold 100%);
+}
+
+.img {
+  width: 80px;
+  height: 80px;
+}
+
+.bayroq_33 {
+  width: 330px;
+  height: 230px;
+  background: rgb(39, 109, 179);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.color {
+  width: 100px;
+  height: 30px;
+  background: gold;
+}
+
+.color2 {
+  width: 30px;
+  height: 230px;
+  background: gold;
+}
+
+.color3 {
+  width: 200px;
+  height: 30px;
+  background: gold;
+}
+
+.bayroq_44 {
+  width: 300px;
+  height: 220px;
+  background: linear-gradient(180deg, dodgerblue 0%, dodgerblue 33%, black 33%, black 66%, white 66%, white 100%);
+}
+
+.bayroq_9 {
+  display: flex;
+  margin-top: 40px;
+  width: 300px;
+  height: 220px;
+  background: linear-gradient(180deg, rgb(1, 1, 83) 0%, rgb(1, 1, 83) 35%, white 35%, white 45%, red 45%, red 55%, white 55%, white 65%, rgb(1, 1, 83) 65%, rgb(1, 1, 83) 100%);
+}
+
+.yulduz {
+  margin-left: 30px;
+  margin-top: 10px;
+  width: 25px;
+  height: 25px;
+}
+
+.yulduz2 {
+  margin-left: 10px;
+  margin-top: 38px;
+  width: 25px;
+  height: 25px;
+}
+
+.yulduz3 {
+  margin-left: 130px;
+  margin-top: 170px;
+  width: 25px;
+  height: 25px;
+}/*# sourceMappingURL=main.css.map */
